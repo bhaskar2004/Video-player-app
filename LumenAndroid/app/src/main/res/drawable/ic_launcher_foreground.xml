@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- soft ring -->
+    <path
+        android:strokeColor="#E0A43A" android:strokeWidth="3" android:strokeAlpha="0.55"
+        android:pathData="M54,54m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0" />
+    <!-- play triangle -->
+    <path
+        android:fillColor="#E0A43A"
+        android:pathData="M47,41.5 L47,66.5 L68,54 Z" />
+</vector>
